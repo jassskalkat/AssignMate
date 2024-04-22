@@ -6,6 +6,7 @@ provides students with all the tools they need to stay on top of their work, get
 done ahead of time, and work effectively with their peers.
 
 AssignMate can be downloaded from:
+
 https://drive.google.com/file/d/1L6EAE3Q5oLcl0h0zWu5iu3CTKleK-bTV/view?usp=sharing
 
 ## Getting Started
